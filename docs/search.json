@@ -11,7 +11,7 @@
     "href": "publications.html#期刊论文",
     "title": "Publications",
     "section": "期刊论文",
-    "text": "期刊论文\n\n无"
+    "text": "期刊论文\n\n暂无"
   },
   {
     "objectID": "publications.html#科研项目",
@@ -75,6 +75,13 @@
     "title": "About",
     "section": "",
     "text": "李彦诒的个人主页"
+  },
+  {
+    "objectID": "books.html",
+    "href": "books.html",
+    "title": "Books",
+    "section": "",
+    "text": "# 现在或许没有未来可能有"
   },
   {
     "objectID": "codes.html",

@@ -88,7 +88,7 @@
     "href": "codes.html",
     "title": "Codes",
     "section": "",
-    "text": "Many of the links below will take you to content on GitHub (my github)."
+    "text": "Many of the links below will take you to content on GitHub (my github).\n\ncode idea\n对于所有单细胞RNA中的稀疏矩阵 - 获取其稀疏矩阵 - 获取其目的基因 - 删除研究基因为空的细胞 - 在计算每个基因的相关性的过程中保留研究基因和计算相关性的基因都不为空的细胞计算相关性 - 选择选择强相关性的基因作为周边节点 - 将基因A和基因B的调控关系作为化学反应方程式计算其平衡常数 - 然后用所有的基因构建一个基因表达网络 - 尝试将目的基因敲除即删除目的基因所有表达量 - 调整网络整体达到平衡 - 分析计算表达量差异明显的基因。（代码还不会写）"
   },
   {
     "objectID": "index.html",

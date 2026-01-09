@@ -1,5 +1,5 @@
 ---
-title: "Yujun Lian"
+title: "Yanyi Li"
 image: images/lianyujun_2025.png
 about:
   id: hero-heading
@@ -8,8 +8,8 @@ about:
   image-shape: round
   links:
     - icon: mailbox
-      text: arlionn@163.com
-      href: mailto:arlionn@163.com
+      text: m18238652800@163.com
+      href: mailto:m18238652800@163.com
     - icon: github
       text: arlionn
       href: https://github.com/lianyujun
